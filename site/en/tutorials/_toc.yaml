@@ -64,8 +64,7 @@ toc:
     path: https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb
     status: external
   - title: Image captioning
-    path: https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/generative_examples/image_captioning_with_attention.ipynb
-    status: external
+    path: /tutorials/generative/image_captioning_with_attention.ipynb
   - title: DCGAN
     path: https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/generative_examples/dcgan.ipynb
     status: external
